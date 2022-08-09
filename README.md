@@ -9,4 +9,4 @@
 Juangfdl/Juangfdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-com o projeto, pois está sem licença.om o projeto, pois está sem licença.
+com o projeto, pois está sem licença com o projeto, pois está sem licença.
